@@ -1,0 +1,3 @@
+D:/image_processor/cmake-build-debug/CMakeFiles/image_processor.dir
+D:/image_processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/image_processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
